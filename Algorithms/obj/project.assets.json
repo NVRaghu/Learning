@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Learning\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "c:\\Learning\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Learning\\Algorithms\\Algorithms.csproj",
+      "projectPath": "c:\\Learning\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\Raghu\\.nuget\\packages\\",
-      "outputPath": "C:\\Learning\\Algorithms\\obj\\",
+      "outputPath": "c:\\Learning\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

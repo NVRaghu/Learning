@@ -20,9 +20,11 @@ namespace Algorithms
             Console.WriteLine("1. One Dimention Peak with Binary Search");
             Console.WriteLine("2. Two Dimention Peak with Gready Ascend Algorith");
             Console.WriteLine("3. Two Dimention Peark with Binary Search with Column Splitting ");
-            Console.WriteLine("3. Two Dimention Peark with Binary Search with Window Splitting ");
+            Console.WriteLine("4. Two Dimention Peark with Binary Search with Window Splitting ");
 
-            input = Console.ReadLine(); 
+            Console.WriteLine("5. Leet Code three Sum");
+
+            input = "5" ; //Console.ReadLine(); 
 
             start:
             switch(input)
@@ -35,6 +37,9 @@ namespace Algorithms
                     break;
                 case "3":
                     TwoDPeakType2.Run();
+                    break;
+                case "5":
+                    threeSum.Run();
                     break;
                 
             }
